@@ -10,3 +10,8 @@ Select the dates has was said before. just make a polygon with google earth or u
 
 If you want change the var sst = ee.ImageCollection('NASA/OCEANDATA/MODIS-Aqua/L3SMI').select('sst')
 to your custom imagecollection and SST bands. some are called "sea-surface-temperature" "sst" "SST" "SST_AVE"
+
+### Tags to be found easy
+sea surface temperature google earth engine
+SST GEE
+sea surface temperature google earth engine csv
